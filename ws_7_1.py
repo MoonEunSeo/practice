@@ -1,8 +1,10 @@
-# ws_7_1.py
+# main.py
+
 
 # 아래 클래스를 수정하시오.
 class Shape:
-   pass
+    pass
+
 
 shape1 = Shape(5, 3)
 print(shape1.width, shape1.height)
